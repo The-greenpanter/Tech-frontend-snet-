@@ -1,4 +1,4 @@
-import avatar from "../../../assets/img/default_user.png";
+import Avatar from "../../../assets/img/default.png";
 export const NavPriv = () => {
     return (
         <nav className="navbar__container-lists">
@@ -29,7 +29,7 @@ export const NavPriv = () => {
                 <li className="list-end__item">
                     <div className="img-avatar-nav">
                         <img
-                            src={avatar}
+                            src={Avatar}
                             className="list-end__img"
                             alt="imagen de perfil"
                         />

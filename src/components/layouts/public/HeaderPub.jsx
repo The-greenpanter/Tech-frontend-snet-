@@ -5,7 +5,7 @@ export const HeaderPub = () => {
         <header className="layout__navbar">
 
             <div className="navbar__header">
-                <a href="#" className="navbar__title">RED_SOCIAL</a>
+                <a href="#" className="navbar__title">MusicMe</a>
             </div>
             <NavPub />
         </header>

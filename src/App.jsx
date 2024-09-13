@@ -1,11 +1,10 @@
-import { HeaderPub } from "./components/layouts/public/HeaderPub.jsx"
-
+import { Routing } from "./router/Routing"
 function App() {
 
   return (
-    <>
-      <HeaderPub />
-    </>
+    <div className="layout">
+      <Routing />
+    </div>
   )
 }
 
