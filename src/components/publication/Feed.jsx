@@ -52,7 +52,7 @@ export const Feed = () => {
 
                         <div className="post__image-user">
                             <a href="#" className="post__image-link">
-                                <img src={avatar} className="post__user-image" alt="Foto de perfil" />
+                                <img src={Avatar} className="post__user-image" alt="Foto de perfil" />
                             </a>
                         </div>
 
@@ -86,7 +86,7 @@ export const Feed = () => {
 
                         <div className="post__image-user">
                             <a href="#" className="post__image-link">
-                                <img src={avatar} className="post__user-image" alt="Foto de perfil" />
+                                <img src={Avatar} className="post__user-image" alt="Foto de perfil" />
                             </a>
                         </div>
 
@@ -119,7 +119,7 @@ export const Feed = () => {
 
                         <div className="post__image-user">
                             <a href="#" className="post__image-link">
-                                <img src={avatar} className="post__user-image" alt="Foto de perfil" />
+                                <img src={Avatar} className="post__user-image" alt="Foto de perfil" />
                             </a>
                         </div>
 

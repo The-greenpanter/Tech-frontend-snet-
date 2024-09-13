@@ -1,3 +1,4 @@
+import avatar from "../../../assets/img/default.png";
 export const Sidebar = () => {
     return (
         <aside className="layout__aside">
